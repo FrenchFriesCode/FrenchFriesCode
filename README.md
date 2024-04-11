@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @FrenchFriesCode
+- 👀 I’m interested in introduce myself into the IT indrustry, i currently work as industrial electricist but my goal is to become a great programmer.
+- 🌱 I’m currently working and doing things with React, Vanilla, MySql, Git, GitHub and learning backend on NodeJS.
+- 💞️ I’m looking to collaborate on a start up, project, or anything where i can put my knowledge to work. I'm still in trainee/junior level,
+-  but i really want to have an opportunity where do it.
+-  My Final stage on this route is the Full-Stack career.
+- 📫 How to reach me sending a e-mail to ismaelfriesdev@gmail.com.
+- ⚡ Fun fact: I'm a professional BMX freestyle athlete and i love computers.
